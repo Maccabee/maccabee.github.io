@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Marcus Brinda's home page
+
+### Sorry for the mess, I'm just getting started.
 
 You can use the [editor on GitHub](https://github.com/Maccabee/maccabee.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
