@@ -1,6 +1,28 @@
-## Welcome to Marcus Brinda's home page
+## Summary
 
-### Sorry for the mess, I'm just getting started.
+- Professional Developer since 2013
+- Experience in .NET web frameworks
+    - ASP.NET MVC
+    - ASP.NET Web API
+- Experience in JavaScript
+    - jQuery
+    - React
+    - Vanilla
+    - AngularJS
+- some experience with WPF for desktop applications
+
+## Work Experience 
+
+Working as a developer ate DataArt since 2013 I've been on a number of projects:
+
+1. 
+
+
+## Education 
+
+- Masters of Computer Science, Department of Informatics and Computer Technology National Technical University of Ukraine “Kiev Polytechnic Institute” - 2015
+- Bachelor of Computer Science, Department of Informatics and Computer Technology National Technical University of Ukraine “Kiev Polytechnic Institute” - 2013
+
 
 You can use the [editor on GitHub](https://github.com/Maccabee/maccabee.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
