@@ -12,50 +12,30 @@
 - some experience with WPF for desktop applications
 
 ## Work Experience 
-
+### most recent first
 Working as a developer ate DataArt since 2013 I've been on a number of projects:
 
-1. 
+- **Loan Application Management Portals** (current)
+    - **Title:** Lead Front-end Developer
+    - **Description:** The client provides Home Improvement loans to private individuals. The project included two systems, one for dealers to manage the application process on behalf of the individuals and one for individuals to request improvements. I was responsible for all levels of UI, including markup and UI logic.
+    - **Tech:** ASP.NET MVC 5.2, NPM, React, ES6, JSX, Webpack, AJAX, HTML, CSS, LESS
 
+- **Location Management System / Customer Portal**
+    - **Title:** Full-stack Developer
+    - **Description:** The client operates a global network of co-working offices. My main responsibility was their location management system updating information about offices, including a WCF API for other company systems to use this information. A secondary responsibility was development of an updated customer-facing site with a focus on SEO and globalization.
+    - **Tech:** ASP.NET MVC 4.0, Entity Framework (db first), MS SQL Server 2014, LINQ, jQuery/AJAX, HTML
 
-## Education 
+- **Subscription Management System**
+    - **Title:** Full-stack Developer
+    - **Description:** This project created a subscription management system for the clients multiple websites that include forums and other membership only content. It includes REST integration with Magento and their internal user portal as well as its own management portal.
+    - **Tech:** ASP.NET MVC 4.5, Web API, Entity Framework (code first), MS SQL Server 2012, LINQ, jQuery/AJAX, Knockout.js, CSS, HTML
+
+- **Cashier System**
+    - **Title:** Backend/WPF Developer
+    - **Description:** The system is for the control of parking facilities, including WPF column and cashier applications and the operation of gates. The project also included an Administration portal for working with club members and facility settings as well as a public website for creating reservations and applying for discounts.
+    - **Tech:** WPF, LINQ, Prism, Unity
+
+## Education (not that I feels it helps)
 
 - Masters of Computer Science, Department of Informatics and Computer Technology National Technical University of Ukraine “Kiev Polytechnic Institute” - 2015
 - Bachelor of Computer Science, Department of Informatics and Computer Technology National Technical University of Ukraine “Kiev Polytechnic Institute” - 2013
-
-
-You can use the [editor on GitHub](https://github.com/Maccabee/maccabee.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Maccabee/maccabee.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
