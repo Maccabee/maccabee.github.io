@@ -1,9 +1,9 @@
 ## Links
 
 [![CodePen](images/codepen.png)](https://codepen.io/maccabee/)
-[![LinkedIn](images/Linkedin.png)](www.linkedin.com/in/marcus-brinda)
+[![LinkedIn](images/Linkedin.png)](https://www.linkedin.com/in/marcus-brinda)
 [![Github](images/github.png)](https://github.com/Maccabee)
-[![twitter](images/twitter.png)](www.twitter.com/maccabeeodin)
+[![twitter](images/twitter.png)](https://www.twitter.com/maccabeeodin)
 
 ## Summary
 
