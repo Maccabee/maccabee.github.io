@@ -1,3 +1,10 @@
+## Links
+
+[![CodePen](images/codepen.png)](https://codepen.io/maccabee/)
+[![LinkedIn](images/Linkedin.png)](www.linkedin.com/in/marcus-brinda)
+[![Github](images/github.png)](https://github.com/Maccabee)
+[![twitter](images/twitter.png)](www.twitter.com/maccabeeodin)
+
 ## Summary
 
 - Professional Developer since 2013
