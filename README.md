@@ -1,3 +1,5 @@
+# Marcus Brinda
+
 ## Links
 
 [![CodePen](images/codepen.png)](https://codepen.io/maccabee/)
@@ -31,18 +33,20 @@ Working as a developer ate DataArt since 2013 I've been on a number of projects:
     - **Title:** Full-stack Developer
     - **Description:** The client operates a global network of co-working offices. My main responsibility was their location management system updating information about offices, including a WCF API for other company systems to use this information. A secondary responsibility was development of an updated customer-facing site with a focus on SEO and globalization.
     - **Tech:** ASP.NET MVC 4.0, Entity Framework (db first), MS SQL Server 2014, LINQ, jQuery/AJAX, HTML
+    - **Ended:** March 2017
 
 - **Subscription Management System**
     - **Title:** Full-stack Developer
     - **Description:** This project created a subscription management system for the clients multiple websites that include forums and other membership only content. It includes REST integration with Magento and their internal user portal as well as its own management portal.
     - **Tech:** ASP.NET MVC 4.5, Web API, Entity Framework (code first), MS SQL Server 2012, LINQ, jQuery/AJAX, Knockout.js, CSS, HTML
+    - **Ended:** May 2016
 
 - **Cashier System**
     - **Title:** Backend/WPF Developer
     - **Description:** The system is for the control of parking facilities, including WPF column and cashier applications and the operation of gates. The project also included an Administration portal for working with club members and facility settings as well as a public website for creating reservations and applying for discounts.
     - **Tech:** WPF, LINQ, Prism, Unity
-
-## Education (not that I feels it helps)
+    - **Ended:** January 2016
+## Education 
 
 - Masters of Computer Science, Department of Informatics and Computer Technology National Technical University of Ukraine “Kiev Polytechnic Institute” - 2015
 - Bachelor of Computer Science, Department of Informatics and Computer Technology National Technical University of Ukraine “Kiev Polytechnic Institute” - 2013
