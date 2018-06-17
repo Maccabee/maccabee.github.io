@@ -38,14 +38,16 @@ h6 {
 
 .container {
   display: grid;
-  grid-template-columns: 1fr 4fr;
-  grid-template-rows: 1fr;
+  grid-template-columns: minmax(310px, 1fr) 4fr;
+  grid-template-rows: 5fr 30px;
+  grid-template-areas: "header content" "footer content";
 }
 
 .header {
   font-size: 20px;
   background: #000000;
   padding: 20px;
+  grid-area: header;
 }
 
 .header header {
@@ -58,11 +60,42 @@ h6 {
   text-decoration: none;
 }
 
+.icon {
+  width: 20px;
+  height: 20px;
+}
+
+.icon.icon-codepen::before {
+  content: url(images/codepen.png);
+}
+
+.icon.icon-linkedin::before {
+  content: url(images/Linkedin.png);
+}
+
+.icon.icon-github::before {
+  content: url(images/github.png);
+}
+
+.icon.icon-twitter::before {
+  content: url(images/twitter.png);
+}
+
 .profilepic {
   width: 200px;
   height: 100%;
 }
 
 .content {
+  height: 100vh;
   padding: 20px;
+  grid-area: content;
+
+  overflow-y: scroll;
+}
+
+.footer {
+  align-items: end;
+  grid-area: footer;
+  background: #000000;
 }
