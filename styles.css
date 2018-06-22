@@ -1,15 +1,9 @@
-:root {
-  --yellow: #ffc600;
-  --black: #272727;
-}
-
 html {
   /* border-box box model allows us to add padding and border to our elements without increasing their size */
   box-sizing: border-box;
   font-family: "Segoe UI", Helvetica, Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
   font-weight: 900;
   font-size: 16px;
-  color: var(--black);
   text-shadow: 0 2px 0 rgba(0, 0, 0, 0.07);
 }
 
@@ -81,7 +75,6 @@ h6 {
 
 .profilepic {
   width: 200px;
-  height: 100%;
 }
 
 .content {
@@ -144,8 +137,49 @@ section h1:first-child {
   padding-left: 10px;
 }
 
-.footer {
+footer {
   align-items: end;
   grid-area: footer;
   background: #000000;
+  padding: 5px;
+}
+
+@media only screen and (max-width:1024px) {
+  .container {
+    grid-template-rows: 150px 1fr 30px;
+    grid-template-columns: 1fr;
+    grid-template-areas: "header" "content" "footer";
+  }
+  .header {
+    position: fixed;
+    width: 100%;
+  }
+  .header header {
+    display: flex;
+    flex-direction: row;
+    position: static;
+  }
+  .header h1 {
+    order: 1;
+  }
+  .header .profilepic {
+    width: 100px;
+    order: 3;
+    margin-left: auto;
+  }
+  .header nav {
+    order: 2;
+    display: inline;
+  }
+  .header nav h1 {
+    display: none;
+  }
+  .content {
+    height: 100%;
+  }
+  footer {
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+  }
 }
