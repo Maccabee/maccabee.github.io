@@ -6,9 +6,7 @@
 html {
   /* border-box box model allows us to add padding and border to our elements without increasing their size */
   box-sizing: border-box;
-  /* A system font stack so things load nice and quick! */
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
-    Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: "Segoe UI", Helvetica, Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
   font-weight: 900;
   font-size: 16px;
   color: var(--black);
@@ -22,7 +20,7 @@ html {
 }
 
 body {
-  background-color: #202020;
+  background-color: #101010;
   color: #dd2020;
   margin: 0;
 }
@@ -38,7 +36,7 @@ h6 {
 
 .container {
   display: grid;
-  grid-template-columns: minmax(310px, 1fr) 4fr;
+  grid-template-columns: 310px 4fr;
   grid-template-rows: 5fr 30px;
   grid-template-areas: "header content" "footer content";
 }
@@ -90,8 +88,60 @@ h6 {
   height: 100vh;
   padding: 20px;
   grid-area: content;
-
   overflow-y: scroll;
+}
+
+section h1:first-child {
+  font-size: 30px;
+}
+
+.summary li {
+  list-style: none;
+}
+
+.summary__item {
+  font-weight: 600;
+}
+
+.summary__sub-title,
+.experience__sub-title {
+  margin-left: 10px;
+}
+
+.experience__title__sub-title {
+  font-size: 20px;
+}
+
+.experience__project {
+  margin-bottom: 10px;
+}
+
+.experience__project .experience__project__header {
+  font-size: 26px;
+}
+
+.experience__project__header .comment {
+  font-size: 20px;
+}
+
+.experience__project__body {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  grid-auto-rows: auto;
+  grid-gap: 20px;
+}
+
+.experience__project__body * {
+  padding: 0 10px;
+}
+
+.experience__project__body p {
+  margin: 0;
+  font-weight: 600;
+}
+
+.education *:not(:first-child) {
+  padding-left: 10px;
 }
 
 .footer {
