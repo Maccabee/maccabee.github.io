@@ -195,10 +195,16 @@ footer {
   html {
     font-size: .8em;
   }
-  .header header {
-    display: flex;
-    flex-direction: column;
+  .container {
+    grid-template-rows: 200px 1fr 30px;
   }
+  .header header {
+    grid-template-rows: 1fr auto;
+  }
+  .experience__title__sub-title {
+    display: inline-block;
+  }
+  /*
   .header h1 {
     order: 1;
   }
@@ -208,5 +214,5 @@ footer {
   .header .profilepic {
     order: 3;
     margin-left: 0;
-  }
+  } */
 }
