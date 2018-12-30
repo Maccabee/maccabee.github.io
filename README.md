@@ -17,6 +17,7 @@
     - jQuery
     - React
     - Vanilla
+    - Angular
     - AngularJS
 - some experience with WPF for desktop applications
 
