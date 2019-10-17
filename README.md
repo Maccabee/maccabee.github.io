@@ -23,12 +23,21 @@
 
 ## Work Experience 
 ### most recent first
-Working as a developer ate DataArt since 2013 I've been on a number of projects:
 
-- **Loan Application Management Portals** (current)
+North American Savings Bank:
+
+- **Customer Authentication Portal** (current)
+    - **Title:** Software Engineer
+    - **Description:** NASB wants a portal to act as Single Sign On for multiple 3<sup>rd</sup> party systems. Implemented as a Cloud-First pilot project moving to AWS. 
+    - **Tech:** AWS, JavaScript, TypeScript, Angular, Gradle, Serverless
+
+DataArt:
+
+- **Loan Application Management Portals**
     - **Title:** Lead Front-end Developer
     - **Description:** The client provides Home Improvement loans to private individuals. The project included two systems, one for dealers to manage the application process on behalf of the individuals and one for individuals to request improvements. I was responsible for all levels of UI, including markup and UI logic.
     - **Tech:** ASP.NET MVC 5.2, NPM, React, ES6, JSX, Webpack, AJAX, HTML, CSS, LESS
+    - **Ended:** February 2019
 
 - **Location Management System / Customer Portal**
     - **Title:** Full-stack Developer
