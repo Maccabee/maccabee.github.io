@@ -10,16 +10,17 @@
 ## Summary
 
 - Professional Developer since 2013
+- Experience in JavaScript
+    - React
+    - Angular
+    - jQuery
+    - Vanilla
 - Experience in .NET web frameworks
     - ASP.NET MVC
     - ASP.NET Web API
-- Experience in JavaScript
-    - jQuery
-    - React
-    - Vanilla
-    - Angular
-    - AngularJS
-- some experience with WPF for desktop applications
+- Exposure to DevOps Technologies
+    - Gradle
+    - Jenkins
 
 ## Work Experience 
 ### most recent first
@@ -56,6 +57,7 @@ DataArt:
     - **Description:** The system is for the control of parking facilities, including WPF column and cashier applications and the operation of gates. The project also included an Administration portal for working with club members and facility settings as well as a public website for creating reservations and applying for discounts.
     - **Tech:** WPF, LINQ, Prism, Unity
     - **Ended:** January 2016
+    
 ## Education 
 
 - Masters of Computer Science, Department of Informatics and Computer Technology National Technical University of Ukraine “Kiev Polytechnic Institute” - 2015
