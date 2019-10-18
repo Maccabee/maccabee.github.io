@@ -21,6 +21,7 @@
 - Exposure to DevOps Technologies
     - Gradle
     - Jenkins
+- Cloud-Native App Development in AWS
 
 ## Work Experience 
 ### most recent first
