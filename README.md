@@ -30,7 +30,7 @@ North American Savings Bank:
 
 - **Customer Authentication Portal** (current)
     - **Title:** Software Engineer
-    - **Description:** NASB wants a portal to act as Single Sign On for multiple 3<sup>rd</sup> party systems. Implemented as a Cloud-First pilot project moving to AWS. 
+    - **Description:**  NASB wants a portal to act as Single Sign On for multiple 3<sup>rd</sup> party systems. Implemented as a Cloud-First pilot project moving to AWS. I was instrumental in building the CI/CD Pipeline, Customer Portal and AWS Infrastructure.
     - **Tech:** AWS, JavaScript, TypeScript, Angular, Gradle, Serverless
 
 DataArt:
